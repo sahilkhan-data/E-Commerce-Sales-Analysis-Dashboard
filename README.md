@@ -10,7 +10,7 @@ An interactive Excel dashboard built to analyze **E-Commerce Sales Analysis Dash
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](assets/dashboard-preview.png)
+![Dashboard Screenshot](assets/Screenshot 2026-07-10 121309.png)
 
 ---
 
